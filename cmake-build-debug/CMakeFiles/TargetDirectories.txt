@@ -1,0 +1,3 @@
+/home/worker/project_cpp/mnogopotoki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/worker/project_cpp/mnogopotoki/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/worker/project_cpp/mnogopotoki/cmake-build-debug/CMakeFiles/mnogopotoki.dir

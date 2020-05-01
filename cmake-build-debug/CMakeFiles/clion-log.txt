@@ -1,0 +1,4 @@
+/snap/clion/112/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/worker/project_cpp/mnogopotoki
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/worker/project_cpp/mnogopotoki/cmake-build-debug

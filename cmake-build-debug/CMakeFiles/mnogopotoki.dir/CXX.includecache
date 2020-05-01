@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/worker/project_cpp/mnogopotoki/main.cpp
+iostream
+-
+math.h
+/home/worker/project_cpp/mnogopotoki/math.h
+omp.h
+-
+
